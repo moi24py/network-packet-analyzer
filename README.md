@@ -2,7 +2,7 @@
 #4 project of my Linux embedded developer journey 
 
 ## Resources
-- [tcpdump.org](https://www.tcpdump.org/index.html)
+- [tcpdump.org](https://www.tcpdump.org/pcap.html)
 - [medium.com](https://medium.com/@sheershikathotli19/getting-started-with-libpcap-and-libnet-crafting-and-capturing-packets-in-c-ae25e04d5ff2)
 - [devdungeon.com](https://www.devdungeon.com/content/using-libpcap-c)
 - [pluto.it](http://www.pluto.it/files/journal/pj0504/libpcap.html)
